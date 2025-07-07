@@ -1,5 +1,5 @@
 public interface Playable {
     public void pay();
     public void receive();
-    pubic void generateTransactionId();
+    public void generateTransactionId();
 }
